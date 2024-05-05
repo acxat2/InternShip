@@ -3,7 +3,7 @@
 
 Все данные в таблице и документе фейковые
 
-<img src="demo/pays.jpg">
+<img src="demo/pay-list.jpg">
 
 <img src="demo/pay.jpg">
 
